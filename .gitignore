@@ -3,3 +3,6 @@
 
 #generated submission
 /submissions
+
+#notebook checkpoints
+.ipynb_checkpoints
