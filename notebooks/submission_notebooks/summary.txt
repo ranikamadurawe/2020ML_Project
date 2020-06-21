@@ -1,0 +1,15 @@
+LightGBM Grid Search + KFold- BEST - all data - geolocation DBSCAN using the same clusterer
+
+
+Private score :- 0.98089
+Public score :- 0.98008
+
+LightGBM Grid Search + KFold- BEST Do Not edit
+
+Private score :- 0.97935
+Public score :- 0.97826
+
+LightGBM Grid Search + KFold- BEST Do Not edit- all data
+
+Private score :- 0.98110
+Public score :- 0.97914
